@@ -21,6 +21,8 @@ Implement `'calc_fifty_cents'` so that the function calculates (and returns as a
 ## Testing
 For this program, try testing your code manually:
 
+In your terminal, switch to the `change` directory and run `php index.php`.
+
 - If you input -1, does your program prompts you again?  
 - If you input 0, does your program output 0?  
 - If you input 1, does your program output 1 (one cent)?  
